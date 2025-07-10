@@ -20,10 +20,9 @@
 
 <br />
 
-<details>
-<summary><b>📊 My GitHub Stats</b></summary>
-<br />
+## 📊 GitHub Analytics
+<div align="center">
 ![Dreamonix's Stats](https://github-readme-stats.vercel.app/api?username=Dreamonix&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![Dreamonix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dreamonix&theme=vue-dark&hide_border=true)
 ![Dreamonix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamonix&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</details>
+</div>
