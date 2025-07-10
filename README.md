@@ -22,8 +22,9 @@
 
 ## 📊 GitHub Analytics
 <div align="center">
-![Dreamonix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamonix&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars)
   
+![Dreamonix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamonix&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamonix&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=6)
 
 </div>
